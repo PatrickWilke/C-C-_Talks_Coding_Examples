@@ -11,4 +11,4 @@ The same holds true for the meta programming part. It is interesting to show tha
 implemented at compile time using templates. However, the code gets very very confusing and using modern C++ standards better
 solutions exist in practise. The n dimensional std array constitutes a useful example which could be extended.
 
-Content on machine learning and reinforcement learning will be implemented in python and hence put in another repository.
+Machine learning and reinforcement learning content is implemented in Python and therefore placed in a different repository.
